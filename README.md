@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![memory_game1](https://user-images.githubusercontent.com/91701678/230081547-ff21db97-d7ec-4451-b6ec-4cb026d1cbd0.png)
 
 This project is a starting point for a Flutter application.
 
